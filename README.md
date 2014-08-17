@@ -25,7 +25,7 @@ Small toolkit  for analyze "My Tracks" GPS data with Mongo MapReduce.
 $ kml2json -i tracks/2.kml -o tracks/2.json
 Done – 442 records exported.
 ```
-Example of record (time is in microseconds)
+Example of record (time is in milliseconds)
 ```
     {
         "time": 1408215039029,
