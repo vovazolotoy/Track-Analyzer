@@ -1,4 +1,16 @@
 #!/usr/bin/env node
+/**
+ Export data from "My Tracks" to JSON
+
+ Usage: kml2json [options]
+
+ Options:
+
+ -h, --help           output usage information
+ -V, --version        output the version number
+ -i, --input [file]   input kml file
+ -o, --output [file]  output json file
+ */
 
 var fs = require('fs'),
     xml2js = require('xml2js'),
