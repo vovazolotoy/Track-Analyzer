@@ -1,5 +1,5 @@
 # Track-Analyzer
-Small toolkit  for analyze "My Tracks" gps data with Mongo MapReduce
+Small toolkit  for analyze "My Tracks" GPS data with Mongo MapReduce.
 
 
 ## Table of Content
@@ -53,3 +53,8 @@ Sun Aug 17 16:24:46.778 imported 442 objects
 
 <a name="analyzing"/>
 ## MongoDB MapReduce Data Analyzing
+
+Have you ever wondered how your driver is representing your company with his driving style?
+GPS Tracking technology can give you the ability to monitor driver behaviour better than ever before.
+
+This toolkit As example of MapReduce data analyzing for finding in GPS tracks points with harsh braking and rapid acceleration
