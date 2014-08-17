@@ -1,0 +1,2154 @@
+[
+    {
+        "time": 1408231913221,
+        "speed": 31.873144,
+        "acceleration": 0,
+        "latitude": -115.135915,
+        "longitude": 36.050963,
+        "elevation": 625.2000122070312
+    },
+    {
+        "time": 1408232016524,
+        "speed": 32.360584,
+        "acceleration": 0.004718546412011297,
+        "latitude": -115.136055,
+        "longitude": 36.051221,
+        "elevation": 625.2000122070312
+    },
+    {
+        "time": 1408232017527,
+        "speed": 32.413086,
+        "acceleration": 0.05234496510468289,
+        "latitude": -115.136201,
+        "longitude": 36.051483,
+        "elevation": 625.4000244140625
+    },
+    {
+        "time": 1408232018524,
+        "speed": 32.91803,
+        "acceleration": 0.5064633901705133,
+        "latitude": -115.136351,
+        "longitude": 36.051753,
+        "elevation": 625.5
+    },
+    {
+        "time": 1408232018591,
+        "speed": 32.91803,
+        "acceleration": 0,
+        "latitude": -115.136351,
+        "longitude": 36.051753,
+        "elevation": 625.5
+    },
+    {
+        "time": 1408232019525,
+        "speed": 33.38025,
+        "acceleration": 0.4948822269807226,
+        "latitude": -115.136511,
+        "longitude": 36.052025,
+        "elevation": 627.5
+    },
+    {
+        "time": 1408232020538,
+        "speed": 33.6757,
+        "acceleration": 0.29165844027640914,
+        "latitude": -115.136678,
+        "longitude": 36.052296,
+        "elevation": 628.0999755859375
+    },
+    {
+        "time": 1408232021523,
+        "speed": 33.55217,
+        "acceleration": -0.12541116751269277,
+        "latitude": -115.13685,
+        "longitude": 36.052566,
+        "elevation": 627.5999755859375
+    },
+    {
+        "time": 1408232022523,
+        "speed": 33.875412,
+        "acceleration": 0.3232420000000005,
+        "latitude": -115.137026,
+        "longitude": 36.052836,
+        "elevation": 627.7000122070312
+    },
+    {
+        "time": 1408232023626,
+        "speed": 33.668495,
+        "acceleration": -0.187594741613778,
+        "latitude": -115.137205,
+        "longitude": 36.053106,
+        "elevation": 627.5999755859375
+    },
+    {
+        "time": 1408232023722,
+        "speed": 33.668495,
+        "acceleration": 0,
+        "latitude": -115.137205,
+        "longitude": 36.053106,
+        "elevation": 627.5999755859375
+    },
+    {
+        "time": 1408232024596,
+        "speed": 33.77916,
+        "acceleration": 0.12661899313500843,
+        "latitude": -115.137383,
+        "longitude": 36.053374,
+        "elevation": 627.5
+    },
+    {
+        "time": 1408232025525,
+        "speed": 33.90681,
+        "acceleration": 0.13740581270183283,
+        "latitude": -115.137561,
+        "longitude": 36.053643,
+        "elevation": 627.2999877929688
+    },
+    {
+        "time": 1408232026524,
+        "speed": 34.026226,
+        "acceleration": 0.11953553553553661,
+        "latitude": -115.137738,
+        "longitude": 36.053914,
+        "elevation": 627.2000122070312
+    },
+    {
+        "time": 1408232027524,
+        "speed": 33.707615,
+        "acceleration": -0.3186110000000042,
+        "latitude": -115.137928,
+        "longitude": 36.054178,
+        "elevation": 630.5
+    },
+    {
+        "time": 1408232028531,
+        "speed": 33.369957,
+        "acceleration": -0.3353108242303849,
+        "latitude": -115.138106,
+        "longitude": 36.054445,
+        "elevation": 631.0999755859375
+    },
+    {
+        "time": 1408232028816,
+        "speed": 33.369957,
+        "acceleration": 0,
+        "latitude": -115.138106,
+        "longitude": 36.054445,
+        "elevation": 631.0999755859375
+    },
+    {
+        "time": 1408232029595,
+        "speed": 33.393635,
+        "acceleration": 0.030395378690633967,
+        "latitude": -115.138281,
+        "longitude": 36.054711,
+        "elevation": 631
+    },
+    {
+        "time": 1408232030547,
+        "speed": 32.85163,
+        "acceleration": -0.5693329831932806,
+        "latitude": -115.138456,
+        "longitude": 36.054973,
+        "elevation": 630.9000244140625
+    },
+    {
+        "time": 1408232031522,
+        "speed": 32.87325,
+        "acceleration": 0.02217435897435758,
+        "latitude": -115.138631,
+        "longitude": 36.055235,
+        "elevation": 630.7999877929688
+    },
+    {
+        "time": 1408232032533,
+        "speed": 32.89847,
+        "acceleration": 0.02494559841741292,
+        "latitude": -115.138801,
+        "longitude": 36.055498,
+        "elevation": 630.7000122070312
+    },
+    {
+        "time": 1408232033546,
+        "speed": 33.91453,
+        "acceleration": 1.003020730503451,
+        "latitude": -115.138976,
+        "longitude": 36.055764,
+        "elevation": 630.5
+    },
+    {
+        "time": 1408232034545,
+        "speed": 33.24385,
+        "acceleration": -0.6713513513513487,
+        "latitude": -115.13915,
+        "longitude": 36.056023,
+        "elevation": 630.5999755859375
+    },
+    {
+        "time": 1408232035553,
+        "speed": 33.28091,
+        "acceleration": 0.0367658730158698,
+        "latitude": -115.13932,
+        "longitude": 36.056285,
+        "elevation": 630.5999755859375
+    },
+    {
+        "time": 1408232036559,
+        "speed": 33.375618,
+        "acceleration": 0.09414314115308571,
+        "latitude": -115.139503,
+        "longitude": 36.056541,
+        "elevation": 631.5999755859375
+    },
+    {
+        "time": 1408232036852,
+        "speed": 33.375618,
+        "acceleration": 0,
+        "latitude": -115.139503,
+        "longitude": 36.056541,
+        "elevation": 631.5999755859375
+    },
+    {
+        "time": 1408232037545,
+        "speed": 32.541252,
+        "acceleration": -1.203991341991346,
+        "latitude": -115.139681,
+        "longitude": 36.056799,
+        "elevation": 631.5999755859375
+    },
+    {
+        "time": 1408232038294,
+        "speed": 32.541252,
+        "acceleration": 0,
+        "latitude": -115.139681,
+        "longitude": 36.056799,
+        "elevation": 631.5999755859375
+    },
+    {
+        "time": 1408232038538,
+        "speed": 32.120213,
+        "acceleration": -1.725569672131149,
+        "latitude": -115.13986,
+        "longitude": 36.057051,
+        "elevation": 631.5999755859375
+    },
+    {
+        "time": 1408232039545,
+        "speed": 32.104256,
+        "acceleration": -0.015846077457795652,
+        "latitude": -115.140045,
+        "longitude": 36.057298,
+        "elevation": 631.5
+    },
+    {
+        "time": 1408232040523,
+        "speed": 31.929764,
+        "acceleration": -0.1784171779141112,
+        "latitude": -115.140238,
+        "longitude": 36.05754,
+        "elevation": 631.4000244140625
+    },
+    {
+        "time": 1408232041679,
+        "speed": 32.07543,
+        "acceleration": 0.12600865051902985,
+        "latitude": -115.140431,
+        "longitude": 36.05778,
+        "elevation": 631.2999877929688
+    },
+    {
+        "time": 1408232042551,
+        "speed": 31.875202,
+        "acceleration": -0.22961926605504088,
+        "latitude": -115.140631,
+        "longitude": 36.058018,
+        "elevation": 631.2000122070312
+    },
+    {
+        "time": 1408232043316,
+        "speed": 31.875202,
+        "acceleration": 0,
+        "latitude": -115.140631,
+        "longitude": 36.058018,
+        "elevation": 631.2000122070312
+    },
+    {
+        "time": 1408232043545,
+        "speed": 32.408455,
+        "acceleration": 2.3286157205239952,
+        "latitude": -115.140841,
+        "longitude": 36.058253,
+        "elevation": 630.9000244140625
+    },
+    {
+        "time": 1408232044529,
+        "speed": 32.40537,
+        "acceleration": -0.0031351626016246667,
+        "latitude": -115.141073,
+        "longitude": 36.058478,
+        "elevation": 632.5
+    },
+    {
+        "time": 1408232045529,
+        "speed": 32.683315,
+        "acceleration": 0.27794500000000255,
+        "latitude": -115.141308,
+        "longitude": 36.058701,
+        "elevation": 633.2999877929688
+    },
+    {
+        "time": 1408232046542,
+        "speed": 32.865013,
+        "acceleration": 0.17936623889437042,
+        "latitude": -115.14155,
+        "longitude": 36.058926,
+        "elevation": 634.2000122070312
+    },
+    {
+        "time": 1408232047559,
+        "speed": 32.8295,
+        "acceleration": -0.03491937069812643,
+        "latitude": -115.141795,
+        "longitude": 36.059144,
+        "elevation": 635
+    },
+    {
+        "time": 1408232048313,
+        "speed": 32.8295,
+        "acceleration": 0,
+        "latitude": -115.141795,
+        "longitude": 36.059144,
+        "elevation": 635
+    },
+    {
+        "time": 1408232048535,
+        "speed": 32.578827,
+        "acceleration": -1.1291576576576852,
+        "latitude": -115.142041,
+        "longitude": 36.05936,
+        "elevation": 635.2999877929688
+    },
+    {
+        "time": 1408232049566,
+        "speed": 32.802734,
+        "acceleration": 0.21717458777885942,
+        "latitude": -115.142296,
+        "longitude": 36.05957,
+        "elevation": 635.7999877929688
+    },
+    {
+        "time": 1408232050550,
+        "speed": 32.788834,
+        "acceleration": -0.014126016260162173,
+        "latitude": -115.142554,
+        "longitude": 36.059771,
+        "elevation": 636.0999755859375
+    },
+    {
+        "time": 1408232051539,
+        "speed": 32.350807,
+        "acceleration": -0.44289888776541775,
+        "latitude": -115.14282,
+        "longitude": 36.05997,
+        "elevation": 636.5999755859375
+    },
+    {
+        "time": 1408232052603,
+        "speed": 32.4975,
+        "acceleration": 0.13786936090225477,
+        "latitude": -115.143091,
+        "longitude": 36.060163,
+        "elevation": 636.7999877929688
+    },
+    {
+        "time": 1408232053550,
+        "speed": 32.83516,
+        "acceleration": 0.3565575501583946,
+        "latitude": -115.143371,
+        "longitude": 36.060356,
+        "elevation": 637
+    },
+    {
+        "time": 1408232054554,
+        "speed": 32.515003,
+        "acceleration": -0.31888147410358747,
+        "latitude": -115.143656,
+        "longitude": 36.060541,
+        "elevation": 637.2999877929688
+    },
+    {
+        "time": 1408232055519,
+        "speed": 32.63545,
+        "acceleration": 0.12481554404144936,
+        "latitude": -115.143943,
+        "longitude": 36.060721,
+        "elevation": 637.7000122070312
+    },
+    {
+        "time": 1408232056525,
+        "speed": 32.663242,
+        "acceleration": 0.027626242544729663,
+        "latitude": -115.144236,
+        "longitude": 36.060894,
+        "elevation": 638.0999755859375
+    },
+    {
+        "time": 1408232057542,
+        "speed": 32.63905,
+        "acceleration": -0.023787610619468363,
+        "latitude": -115.144531,
+        "longitude": 36.06106,
+        "elevation": 638.0999755859375
+    },
+    {
+        "time": 1408232058560,
+        "speed": 32.308083,
+        "acceleration": -0.3251149312377151,
+        "latitude": -115.144831,
+        "longitude": 36.061215,
+        "elevation": 638.5999755859375
+    },
+    {
+        "time": 1408232059560,
+        "speed": 32.483604,
+        "acceleration": 0.17552099999999626,
+        "latitude": -115.145135,
+        "longitude": 36.061366,
+        "elevation": 638.7999877929688
+    },
+    {
+        "time": 1408232060554,
+        "speed": 32.58243,
+        "acceleration": 0.09942253521127015,
+        "latitude": -115.145443,
+        "longitude": 36.061516,
+        "elevation": 638.7000122070312
+    },
+    {
+        "time": 1408232061530,
+        "speed": 32.239113,
+        "acceleration": -0.35175922131147436,
+        "latitude": -115.145753,
+        "longitude": 36.061661,
+        "elevation": 638.7999877929688
+    },
+    {
+        "time": 1408232062539,
+        "speed": 31.597767,
+        "acceleration": -0.6356253716551062,
+        "latitude": -115.146063,
+        "longitude": 36.061798,
+        "elevation": 639.2000122070312
+    },
+    {
+        "time": 1408232063548,
+        "speed": 31.13143,
+        "acceleration": -0.4621774033696723,
+        "latitude": -115.146373,
+        "longitude": 36.061926,
+        "elevation": 639.4000244140625
+    },
+    {
+        "time": 1408232064552,
+        "speed": 30.868406,
+        "acceleration": -0.2619760956175313,
+        "latitude": -115.146683,
+        "longitude": 36.062045,
+        "elevation": 640
+    },
+    {
+        "time": 1408232065538,
+        "speed": 30.353683,
+        "acceleration": -0.5220314401622718,
+        "latitude": -115.146991,
+        "longitude": 36.062156,
+        "elevation": 640.2999877929688
+    },
+    {
+        "time": 1408232066559,
+        "speed": 29.974848,
+        "acceleration": -0.37104309500489585,
+        "latitude": -115.147298,
+        "longitude": 36.062258,
+        "elevation": 640.5
+    },
+    {
+        "time": 1408232067544,
+        "speed": 29.987717,
+        "acceleration": 0.013064974619287783,
+        "latitude": -115.147608,
+        "longitude": 36.062356,
+        "elevation": 640.5
+    },
+    {
+        "time": 1408232068522,
+        "speed": 29.768959,
+        "acceleration": -0.22367893660531812,
+        "latitude": -115.147915,
+        "longitude": 36.06245,
+        "elevation": 640.5999755859375
+    },
+    {
+        "time": 1408232069555,
+        "speed": 29.62072,
+        "acceleration": -0.14350338818973885,
+        "latitude": -115.148225,
+        "longitude": 36.062536,
+        "elevation": 640.5
+    },
+    {
+        "time": 1408232070553,
+        "speed": 29.514687,
+        "acceleration": -0.10624549098196397,
+        "latitude": -115.14853,
+        "longitude": 36.062621,
+        "elevation": 640.4000244140625
+    },
+    {
+        "time": 1408232071551,
+        "speed": 29.462185,
+        "acceleration": -0.05260721442885465,
+        "latitude": -115.14884,
+        "longitude": 36.062705,
+        "elevation": 640.0999755859375
+    },
+    {
+        "time": 1408232072540,
+        "speed": 29.400934,
+        "acceleration": -0.061932254802833334,
+        "latitude": -115.14915,
+        "longitude": 36.062785,
+        "elevation": 639.9000244140625
+    },
+    {
+        "time": 1408232073563,
+        "speed": 29.38961,
+        "acceleration": -0.01106940371456338,
+        "latitude": -115.14946,
+        "longitude": 36.062865,
+        "elevation": 639.7999877929688
+    },
+    {
+        "time": 1408232074525,
+        "speed": 29.307768,
+        "acceleration": -0.08507484407484589,
+        "latitude": -115.149771,
+        "longitude": 36.062945,
+        "elevation": 639.9000244140625
+    },
+    {
+        "time": 1408232075534,
+        "speed": 29.302622,
+        "acceleration": -0.0051000991080276245,
+        "latitude": -115.150081,
+        "longitude": 36.06302,
+        "elevation": 640
+    },
+    {
+        "time": 1408232076544,
+        "speed": 29.279974,
+        "acceleration": -0.022423762376237846,
+        "latitude": -115.150393,
+        "longitude": 36.06309,
+        "elevation": 639.9000244140625
+    },
+    {
+        "time": 1408232077559,
+        "speed": 29.288723,
+        "acceleration": 0.008619704433499185,
+        "latitude": -115.150708,
+        "longitude": 36.06316,
+        "elevation": 639.9000244140625
+    },
+    {
+        "time": 1408232078552,
+        "speed": 29.309828,
+        "acceleration": 0.021253776435043906,
+        "latitude": -115.151028,
+        "longitude": 36.063225,
+        "elevation": 639.7000122070312
+    },
+    {
+        "time": 1408232079535,
+        "speed": 29.890434,
+        "acceleration": 0.5906469989827055,
+        "latitude": -115.151351,
+        "longitude": 36.063288,
+        "elevation": 639.7999877929688
+    },
+    {
+        "time": 1408232080539,
+        "speed": 29.635647,
+        "acceleration": -0.25377191235059793,
+        "latitude": -115.151673,
+        "longitude": 36.063348,
+        "elevation": 639.7999877929688
+    },
+    {
+        "time": 1408232081556,
+        "speed": 29.777195,
+        "acceleration": 0.13918190757128832,
+        "latitude": -115.151996,
+        "longitude": 36.063404,
+        "elevation": 639.7000122070312
+    },
+    {
+        "time": 1408232082555,
+        "speed": 29.637192,
+        "acceleration": -0.14014314314314325,
+        "latitude": -115.152316,
+        "longitude": 36.063461,
+        "elevation": 639.4000244140625
+    },
+    {
+        "time": 1408232083535,
+        "speed": 29.49976,
+        "acceleration": -0.14023673469387798,
+        "latitude": -115.152638,
+        "longitude": 36.063513,
+        "elevation": 639
+    },
+    {
+        "time": 1408232085494,
+        "speed": 29.622263,
+        "acceleration": 0.06253343542623879,
+        "latitude": -115.152958,
+        "longitude": 36.063563,
+        "elevation": 638.7000122070312
+    },
+    {
+        "time": 1408232086375,
+        "speed": 29.521378,
+        "acceleration": -0.11451191827468975,
+        "latitude": -115.153276,
+        "longitude": 36.063608,
+        "elevation": 638.4000244140625
+    },
+    {
+        "time": 1408232087369,
+        "speed": 29.48895,
+        "acceleration": -0.03262374245472783,
+        "latitude": -115.153595,
+        "longitude": 36.063651,
+        "elevation": 638
+    },
+    {
+        "time": 1408232088354,
+        "speed": 28.731794,
+        "acceleration": -0.768686294416242,
+        "latitude": -115.153908,
+        "longitude": 36.063693,
+        "elevation": 637.5
+    },
+    {
+        "time": 1408232089395,
+        "speed": 28.255161,
+        "acceleration": -0.45786071085494684,
+        "latitude": -115.154215,
+        "longitude": 36.063726,
+        "elevation": 637.0999755859375
+    },
+    {
+        "time": 1408232090382,
+        "speed": 27.44396,
+        "acceleration": -0.8218855116514696,
+        "latitude": -115.154513,
+        "longitude": 36.063748,
+        "elevation": 636.5999755859375
+    },
+    {
+        "time": 1408232091379,
+        "speed": 27.29572,
+        "acceleration": -0.14868605817452482,
+        "latitude": -115.154813,
+        "longitude": 36.063771,
+        "elevation": 636.0999755859375
+    },
+    {
+        "time": 1408232092383,
+        "speed": 27.293146,
+        "acceleration": -0.0025637450199195097,
+        "latitude": -115.155113,
+        "longitude": 36.063796,
+        "elevation": 635.5999755859375
+    },
+    {
+        "time": 1408232093390,
+        "speed": 26.718716,
+        "acceleration": -0.5704369414101287,
+        "latitude": -115.155403,
+        "longitude": 36.063809,
+        "elevation": 635
+    },
+    {
+        "time": 1408232094392,
+        "speed": 26.556578,
+        "acceleration": -0.16181437125748735,
+        "latitude": -115.155695,
+        "longitude": 36.063821,
+        "elevation": 634.5999755859375
+    },
+    {
+        "time": 1408232095368,
+        "speed": 26.245686,
+        "acceleration": -0.3185368852459007,
+        "latitude": -115.155986,
+        "longitude": 36.063836,
+        "elevation": 634.2000122070312
+    },
+    {
+        "time": 1408232096382,
+        "speed": 26.252377,
+        "acceleration": 0.0065986193293885624,
+        "latitude": -115.156276,
+        "longitude": 36.06385,
+        "elevation": 633.7999877929688
+    },
+    {
+        "time": 1408232097360,
+        "speed": 26.92615,
+        "acceleration": 0.6889294478527614,
+        "latitude": -115.156571,
+        "longitude": 36.063866,
+        "elevation": 633.4000244140625
+    },
+    {
+        "time": 1408232098362,
+        "speed": 27.090345,
+        "acceleration": 0.1638672654690613,
+        "latitude": -115.156871,
+        "longitude": 36.063873,
+        "elevation": 633
+    },
+    {
+        "time": 1408232099359,
+        "speed": 27.25763,
+        "acceleration": 0.16778836509528552,
+        "latitude": -115.157171,
+        "longitude": 36.06388,
+        "elevation": 632.5999755859375
+    },
+    {
+        "time": 1408232100361,
+        "speed": 27.541758,
+        "acceleration": 0.2835608782435156,
+        "latitude": -115.157475,
+        "longitude": 36.063885,
+        "elevation": 632.2999877929688
+    },
+    {
+        "time": 1408232101357,
+        "speed": 27.826399,
+        "acceleration": 0.2857841365461818,
+        "latitude": -115.157778,
+        "longitude": 36.063888,
+        "elevation": 632.2000122070312
+    },
+    {
+        "time": 1408232102363,
+        "speed": 27.488226,
+        "acceleration": -0.33615606361828787,
+        "latitude": -115.158081,
+        "longitude": 36.063893,
+        "elevation": 632
+    },
+    {
+        "time": 1408232103360,
+        "speed": 27.710585,
+        "acceleration": 0.22302808425275558,
+        "latitude": -115.158381,
+        "longitude": 36.063898,
+        "elevation": 631.7000122070312
+    },
+    {
+        "time": 1408232104360,
+        "speed": 27.06255,
+        "acceleration": -0.6480349999999966,
+        "latitude": -115.158683,
+        "longitude": 36.063903,
+        "elevation": 631.5
+    },
+    {
+        "time": 1408232105359,
+        "speed": 26.696068,
+        "acceleration": -0.36684884884885016,
+        "latitude": -115.158978,
+        "longitude": 36.063899,
+        "elevation": 631.2000122070312
+    },
+    {
+        "time": 1408232106360,
+        "speed": 26.714598,
+        "acceleration": 0.018511488511486894,
+        "latitude": -115.159273,
+        "longitude": 36.063895,
+        "elevation": 631.2000122070312
+    },
+    {
+        "time": 1408232107361,
+        "speed": 26.993063,
+        "acceleration": 0.2781868131868138,
+        "latitude": -115.159573,
+        "longitude": 36.063893,
+        "elevation": 631.0999755859375
+    },
+    {
+        "time": 1408232108362,
+        "speed": 26.970415,
+        "acceleration": -0.02262537462537485,
+        "latitude": -115.159873,
+        "longitude": 36.063893,
+        "elevation": 630.7999877929688
+    },
+    {
+        "time": 1408232109359,
+        "speed": 26.75732,
+        "acceleration": -0.21373620862587678,
+        "latitude": -115.160171,
+        "longitude": 36.06389,
+        "elevation": 630.7000122070312
+    },
+    {
+        "time": 1408232110360,
+        "speed": 26.78666,
+        "acceleration": 0.029310689310690564,
+        "latitude": -115.160468,
+        "longitude": 36.063886,
+        "elevation": 630.5
+    },
+    {
+        "time": 1408232111360,
+        "speed": 26.842249,
+        "acceleration": 0.05558899999999767,
+        "latitude": -115.160766,
+        "longitude": 36.063883,
+        "elevation": 630.2999877929688
+    },
+    {
+        "time": 1408232112359,
+        "speed": 25.831335,
+        "acceleration": -1.0119259259259257,
+        "latitude": -115.161056,
+        "longitude": 36.063875,
+        "elevation": 630.2000122070312
+    },
+    {
+        "time": 1408232113359,
+        "speed": 25.611547,
+        "acceleration": -0.21978799999999765,
+        "latitude": -115.161341,
+        "longitude": 36.063865,
+        "elevation": 630.2999877929688
+    },
+    {
+        "time": 1408232114363,
+        "speed": 25.76751,
+        "acceleration": 0.1553416334661353,
+        "latitude": -115.161628,
+        "longitude": 36.063854,
+        "elevation": 630.2999877929688
+    },
+    {
+        "time": 1408232115359,
+        "speed": 25.598166,
+        "acceleration": -0.17002409638554455,
+        "latitude": -115.16192,
+        "longitude": 36.06385,
+        "elevation": 630.2000122070312
+    },
+    {
+        "time": 1408232116361,
+        "speed": 25.444263,
+        "acceleration": -0.1535958083832332,
+        "latitude": -115.162211,
+        "longitude": 36.063845,
+        "elevation": 630.0999755859375
+    },
+    {
+        "time": 1408232117359,
+        "speed": 25.392277,
+        "acceleration": -0.05209018036072086,
+        "latitude": -115.162508,
+        "longitude": 36.063841,
+        "elevation": 630
+    },
+    {
+        "time": 1408232118360,
+        "speed": 25.94303,
+        "acceleration": 0.5502027972027974,
+        "latitude": -115.162798,
+        "longitude": 36.063836,
+        "elevation": 630
+    },
+    {
+        "time": 1408232119376,
+        "speed": 25.7567,
+        "acceleration": -0.1833956692913402,
+        "latitude": -115.163086,
+        "longitude": 36.063833,
+        "elevation": 630.0999755859375
+    },
+    {
+        "time": 1408232120438,
+        "speed": 25.743832,
+        "acceleration": -0.012116760828622822,
+        "latitude": -115.163376,
+        "longitude": 36.063835,
+        "elevation": 629.9000244140625
+    },
+    {
+        "time": 1408232121360,
+        "speed": 25.821041,
+        "acceleration": 0.08374078091106275,
+        "latitude": -115.163666,
+        "longitude": 36.063838,
+        "elevation": 629.5999755859375
+    },
+    {
+        "time": 1408232122361,
+        "speed": 26.09024,
+        "acceleration": 0.26893006993007035,
+        "latitude": -115.163958,
+        "longitude": 36.063843,
+        "elevation": 629.7999877929688
+    },
+    {
+        "time": 1408232123361,
+        "speed": 26.595697,
+        "acceleration": 0.5054569999999998,
+        "latitude": -115.164263,
+        "longitude": 36.063854,
+        "elevation": 630
+    },
+    {
+        "time": 1408232124359,
+        "speed": 26.153036,
+        "acceleration": -0.4435480961923859,
+        "latitude": -115.164556,
+        "longitude": 36.06386,
+        "elevation": 630.0999755859375
+    },
+    {
+        "time": 1408232125359,
+        "speed": 26.016634,
+        "acceleration": -0.13640200000000036,
+        "latitude": -115.164848,
+        "longitude": 36.063873,
+        "elevation": 630.2999877929688
+    },
+    {
+        "time": 1408232126364,
+        "speed": 25.899279,
+        "acceleration": -0.11677114427860684,
+        "latitude": -115.165141,
+        "longitude": 36.063891,
+        "elevation": 630.7000122070312
+    },
+    {
+        "time": 1408232127360,
+        "speed": 26.025385,
+        "acceleration": 0.12661244979919684,
+        "latitude": -115.165428,
+        "longitude": 36.063903,
+        "elevation": 631.0999755859375
+    },
+    {
+        "time": 1408232128361,
+        "speed": 24.958366,
+        "acceleration": -1.0659530469530454,
+        "latitude": -115.165705,
+        "longitude": 36.063911,
+        "elevation": 631.4000244140625
+    },
+    {
+        "time": 1408232129360,
+        "speed": 24.825567,
+        "acceleration": -0.13293193193193406,
+        "latitude": -115.165981,
+        "longitude": 36.063923,
+        "elevation": 631.7999877929688
+    },
+    {
+        "time": 1408232130359,
+        "speed": 24.813728,
+        "acceleration": -0.011850850850849227,
+        "latitude": -115.166256,
+        "longitude": 36.063933,
+        "elevation": 632.2999877929688
+    },
+    {
+        "time": 1408232131361,
+        "speed": 24.926453,
+        "acceleration": 0.11249999999999753,
+        "latitude": -115.166536,
+        "longitude": 36.063943,
+        "elevation": 632.7000122070312
+    },
+    {
+        "time": 1408232132363,
+        "speed": 24.844097,
+        "acceleration": -0.08219161676646428,
+        "latitude": -115.166813,
+        "longitude": 36.063953,
+        "elevation": 633.2999877929688
+    },
+    {
+        "time": 1408232133359,
+        "speed": 24.625341,
+        "acceleration": -0.21963453815261308,
+        "latitude": -115.167081,
+        "longitude": 36.063968,
+        "elevation": 634.2000122070312
+    },
+    {
+        "time": 1408232134360,
+        "speed": 23.7709,
+        "acceleration": -0.8535874125874103,
+        "latitude": -115.167341,
+        "longitude": 36.063991,
+        "elevation": 635.2999877929688
+    },
+    {
+        "time": 1408232135359,
+        "speed": 23.252062,
+        "acceleration": -0.5193573573573598,
+        "latitude": -115.167588,
+        "longitude": 36.064013,
+        "elevation": 636.5999755859375
+    },
+    {
+        "time": 1408232136359,
+        "speed": 22.595276,
+        "acceleration": -0.6567860000000003,
+        "latitude": -115.167836,
+        "longitude": 36.064049,
+        "elevation": 637.7999877929688
+    },
+    {
+        "time": 1408232137360,
+        "speed": 22.567482,
+        "acceleration": -0.027766233766233862,
+        "latitude": -115.168081,
+        "longitude": 36.064096,
+        "elevation": 638.7999877929688
+    },
+    {
+        "time": 1408232138362,
+        "speed": 21.920475,
+        "acceleration": -0.645715568862274,
+        "latitude": -115.16832,
+        "longitude": 36.064146,
+        "elevation": 639.5
+    },
+    {
+        "time": 1408232139359,
+        "speed": 21.814957,
+        "acceleration": -0.10583550651955868,
+        "latitude": -115.168551,
+        "longitude": 36.0642,
+        "elevation": 640.2000122070312
+    },
+    {
+        "time": 1408232140360,
+        "speed": 21.927681,
+        "acceleration": 0.11261138861138865,
+        "latitude": -115.168789,
+        "longitude": 36.064261,
+        "elevation": 641
+    },
+    {
+        "time": 1408232141359,
+        "speed": 21.65282,
+        "acceleration": -0.2751361361361375,
+        "latitude": -115.169023,
+        "longitude": 36.064318,
+        "elevation": 642
+    },
+    {
+        "time": 1408232142359,
+        "speed": 21.566347,
+        "acceleration": -0.08647299999999802,
+        "latitude": -115.169248,
+        "longitude": 36.064368,
+        "elevation": 642.9000244140625
+    },
+    {
+        "time": 1408232143359,
+        "speed": 20.553888,
+        "acceleration": -1.0124589999999998,
+        "latitude": -115.169468,
+        "longitude": 36.064413,
+        "elevation": 643.9000244140625
+    },
+    {
+        "time": 1408232144363,
+        "speed": 20.277481,
+        "acceleration": -0.27530577689242924,
+        "latitude": -115.169686,
+        "longitude": 36.064454,
+        "elevation": 645
+    },
+    {
+        "time": 1408232145360,
+        "speed": 20.149317,
+        "acceleration": -0.12854964894684223,
+        "latitude": -115.169903,
+        "longitude": 36.064491,
+        "elevation": 646.2000122070312
+    },
+    {
+        "time": 1408232146360,
+        "speed": 19.980488,
+        "acceleration": -0.16882899999999879,
+        "latitude": -115.17012,
+        "longitude": 36.064518,
+        "elevation": 647
+    },
+    {
+        "time": 1408232147358,
+        "speed": 19.727243,
+        "acceleration": -0.2537525050100197,
+        "latitude": -115.170333,
+        "longitude": 36.064536,
+        "elevation": 647.9000244140625
+    },
+    {
+        "time": 1408232148359,
+        "speed": 18.688534,
+        "acceleration": -1.0376713286713295,
+        "latitude": -115.170541,
+        "longitude": 36.064544,
+        "elevation": 649
+    },
+    {
+        "time": 1408232149359,
+        "speed": 18.067265,
+        "acceleration": -0.6212690000000016,
+        "latitude": -115.170748,
+        "longitude": 36.064551,
+        "elevation": 650.2000122070312
+    },
+    {
+        "time": 1408232150362,
+        "speed": 17.832552,
+        "acceleration": -0.23401096709870317,
+        "latitude": -115.170948,
+        "longitude": 36.06455,
+        "elevation": 651.2999877929688
+    },
+    {
+        "time": 1408232151359,
+        "speed": 17.717253,
+        "acceleration": -0.11564593781344058,
+        "latitude": -115.171143,
+        "longitude": 36.064548,
+        "elevation": 652.4000244140625
+    },
+    {
+        "time": 1408232152360,
+        "speed": 16.878256,
+        "acceleration": -0.8381588411588402,
+        "latitude": -115.171333,
+        "longitude": 36.064546,
+        "elevation": 653.5999755859375
+    },
+    {
+        "time": 1408232153359,
+        "speed": 16.317724,
+        "acceleration": -0.5610930930930951,
+        "latitude": -115.171518,
+        "longitude": 36.064546,
+        "elevation": 654.7000122070312
+    },
+    {
+        "time": 1408232154361,
+        "speed": 14.901723,
+        "acceleration": -1.4131746506986005,
+        "latitude": -115.171688,
+        "longitude": 36.064546,
+        "elevation": 655.5999755859375
+    },
+    {
+        "time": 1408232155360,
+        "speed": 12.928278,
+        "acceleration": -1.9754204204204202,
+        "latitude": -115.171835,
+        "longitude": 36.064546,
+        "elevation": 656.5999755859375
+    },
+    {
+        "time": 1408232156363,
+        "speed": 10.125101,
+        "acceleration": -2.794792622133599,
+        "latitude": -115.171946,
+        "longitude": 36.06454,
+        "elevation": 657.7999877929688
+    },
+    {
+        "time": 1408232157360,
+        "speed": 8.463063,
+        "acceleration": -1.6670391173520571,
+        "latitude": -115.172041,
+        "longitude": 36.064548,
+        "elevation": 658.7000122070312
+    },
+    {
+        "time": 1408232158361,
+        "speed": 7.3981023,
+        "acceleration": -1.0638968031968035,
+        "latitude": -115.17212,
+        "longitude": 36.064578,
+        "elevation": 659.7999877929688
+    },
+    {
+        "time": 1408232159359,
+        "speed": 6.600283,
+        "acceleration": -0.7994181362725447,
+        "latitude": -115.172153,
+        "longitude": 36.064625,
+        "elevation": 661
+    },
+    {
+        "time": 1408232160359,
+        "speed": 7.128903,
+        "acceleration": 0.5286200000000001,
+        "latitude": -115.17215,
+        "longitude": 36.064693,
+        "elevation": 662
+    },
+    {
+        "time": 1408232161359,
+        "speed": 7.9540024,
+        "acceleration": 0.8250994,
+        "latitude": -115.172146,
+        "longitude": 36.064766,
+        "elevation": 663.0999755859375
+    },
+    {
+        "time": 1408232162363,
+        "speed": 8.629833,
+        "acceleration": 0.6731380478087643,
+        "latitude": -115.172153,
+        "longitude": 36.064845,
+        "elevation": 664
+    },
+    {
+        "time": 1408232163360,
+        "speed": 9.297427,
+        "acceleration": 0.669602808425277,
+        "latitude": -115.172153,
+        "longitude": 36.064928,
+        "elevation": 664.7999877929688
+    },
+    {
+        "time": 1408232164360,
+        "speed": 9.901711,
+        "acceleration": 0.6042839999999998,
+        "latitude": -115.172155,
+        "longitude": 36.065021,
+        "elevation": 665.5999755859375
+    },
+    {
+        "time": 1408232165359,
+        "speed": 10.338196,
+        "acceleration": 0.4369219219219213,
+        "latitude": -115.172153,
+        "longitude": 36.065118,
+        "elevation": 666.4000244140625
+    },
+    {
+        "time": 1408232166357,
+        "speed": 11.156604,
+        "acceleration": 0.8200480961923845,
+        "latitude": -115.172151,
+        "longitude": 36.065221,
+        "elevation": 667.0999755859375
+    },
+    {
+        "time": 1408232167359,
+        "speed": 11.981704,
+        "acceleration": 0.8234530938123761,
+        "latitude": -115.172151,
+        "longitude": 36.065331,
+        "elevation": 667.9000244140625
+    },
+    {
+        "time": 1408232168363,
+        "speed": 11.954938,
+        "acceleration": -0.026659362549801082,
+        "latitude": -115.172146,
+        "longitude": 36.065443,
+        "elevation": 668.5
+    },
+    {
+        "time": 1408232169360,
+        "speed": 12.077442,
+        "acceleration": 0.12287261785355995,
+        "latitude": -115.172143,
+        "longitude": 36.065555,
+        "elevation": 668.9000244140625
+    },
+    {
+        "time": 1408232170360,
+        "speed": 12.221564,
+        "acceleration": 0.1441220000000012,
+        "latitude": -115.172143,
+        "longitude": 36.065663,
+        "elevation": 669.0999755859375
+    },
+    {
+        "time": 1408232171359,
+        "speed": 12.448042,
+        "acceleration": 0.2267047047047031,
+        "latitude": -115.17215,
+        "longitude": 36.065775,
+        "elevation": 669.5
+    },
+    {
+        "time": 1408232172359,
+        "speed": 13.434765,
+        "acceleration": 0.9867230000000015,
+        "latitude": -115.172165,
+        "longitude": 36.065896,
+        "elevation": 669.9000244140625
+    },
+    {
+        "time": 1408232173359,
+        "speed": 14.514652,
+        "acceleration": 1.0798869999999994,
+        "latitude": -115.172188,
+        "longitude": 36.06603,
+        "elevation": 670.5
+    },
+    {
+        "time": 1408232174363,
+        "speed": 15.35159,
+        "acceleration": 0.8336035856573705,
+        "latitude": -115.17221,
+        "longitude": 36.066166,
+        "elevation": 671.0999755859375
+    },
+    {
+        "time": 1408232175359,
+        "speed": 15.718587,
+        "acceleration": 0.36847088353413615,
+        "latitude": -115.17223,
+        "longitude": 36.066306,
+        "elevation": 671.5
+    },
+    {
+        "time": 1408232176360,
+        "speed": 15.728367,
+        "acceleration": 0.009770229770230779,
+        "latitude": -115.172243,
+        "longitude": 36.066448,
+        "elevation": 671.9000244140625
+    },
+    {
+        "time": 1408232177359,
+        "speed": 15.418504,
+        "acceleration": -0.31017317317317317,
+        "latitude": -115.172253,
+        "longitude": 36.066588,
+        "elevation": 672.4000244140625
+    },
+    {
+        "time": 1408232178359,
+        "speed": 15.04636,
+        "acceleration": -0.3721440000000005,
+        "latitude": -115.172274,
+        "longitude": 36.06673,
+        "elevation": 672.2999877929688
+    },
+    {
+        "time": 1408232179360,
+        "speed": 14.570242,
+        "acceleration": -0.47564235764235724,
+        "latitude": -115.172306,
+        "longitude": 36.066866,
+        "elevation": 671.0999755859375
+    },
+    {
+        "time": 1408232180362,
+        "speed": 14.3118515,
+        "acceleration": -0.2578747504990028,
+        "latitude": -115.172326,
+        "longitude": 36.066996,
+        "elevation": 670.7999877929688
+    },
+    {
+        "time": 1408232181560,
+        "speed": 13.843969,
+        "acceleration": -0.3905530050083472,
+        "latitude": -115.172336,
+        "longitude": 36.067121,
+        "elevation": 670.7999877929688
+    },
+    {
+        "time": 1408232182414,
+        "speed": 13.186153,
+        "acceleration": -0.7702763466042158,
+        "latitude": -115.17234,
+        "longitude": 36.067238,
+        "elevation": 670.5999755859375
+    },
+    {
+        "time": 1408232185020,
+        "speed": 12.554589,
+        "acceleration": -0.24234996162701425,
+        "latitude": -115.17234,
+        "longitude": 36.067353,
+        "elevation": 670.5
+    },
+    {
+        "time": 1408232185637,
+        "speed": 10.419007,
+        "acceleration": -3.461235008103727,
+        "latitude": -115.172336,
+        "longitude": 36.067553,
+        "elevation": 670.7000122070312
+    },
+    {
+        "time": 1408232186366,
+        "speed": 8.305043,
+        "acceleration": -2.899813443072704,
+        "latitude": -115.17234,
+        "longitude": 36.067623,
+        "elevation": 671
+    },
+    {
+        "time": 1408232187379,
+        "speed": 6.5086627,
+        "acceleration": -1.7733270483711738,
+        "latitude": -115.17235,
+        "longitude": 36.067673,
+        "elevation": 671.5
+    },
+    {
+        "time": 1408232191377,
+        "speed": 1.9528561,
+        "acceleration": -1.1395214107053528,
+        "latitude": -115.172338,
+        "longitude": 36.067756,
+        "elevation": 672.7000122070312
+    },
+    {
+        "time": 1408232192363,
+        "speed": 0.09265,
+        "acceleration": -1.8866187626774849,
+        "latitude": -115.172346,
+        "longitude": 36.067753,
+        "elevation": 673
+    },
+    {
+        "time": 1408232223392,
+        "speed": 0,
+        "acceleration": -0.002985916400786361,
+        "latitude": -115.17232,
+        "longitude": 36.067743,
+        "elevation": 674.5
+    },
+    {
+        "time": 1408232224384,
+        "speed": 0.73862636,
+        "acceleration": 0.7445830241935485,
+        "latitude": -115.17232,
+        "longitude": 36.067736,
+        "elevation": 674.5
+    },
+    {
+        "time": 1408232298355,
+        "speed": 2.5159621,
+        "acceleration": 0.02402746670992686,
+        "latitude": -115.172366,
+        "longitude": 36.06776,
+        "elevation": 674.9000244140625
+    },
+    {
+        "time": 1408232299355,
+        "speed": 3.1665711,
+        "acceleration": 0.6506090000000002,
+        "latitude": -115.172353,
+        "longitude": 36.06783,
+        "elevation": 674.7999877929688
+    },
+    {
+        "time": 1408232301356,
+        "speed": 3.2901044,
+        "acceleration": 0.061735782108945564,
+        "latitude": -115.17239,
+        "longitude": 36.067913,
+        "elevation": 675.2000122070312
+    },
+    {
+        "time": 1408232302357,
+        "speed": 3.5345974,
+        "acceleration": 0.24424875124875112,
+        "latitude": -115.172425,
+        "longitude": 36.067933,
+        "elevation": 675.4000244140625
+    },
+    {
+        "time": 1408232304355,
+        "speed": 4.063732,
+        "acceleration": 0.2648321321321321,
+        "latitude": -115.172508,
+        "longitude": 36.067908,
+        "elevation": 675.2999877929688
+    },
+    {
+        "time": 1408232305353,
+        "speed": 5.072073,
+        "acceleration": 1.0103617234468936,
+        "latitude": -115.172541,
+        "longitude": 36.067875,
+        "elevation": 675.2000122070312
+    },
+    {
+        "time": 1408232306358,
+        "speed": 5.8179054,
+        "acceleration": 0.7421217910447765,
+        "latitude": -115.172558,
+        "longitude": 36.067823,
+        "elevation": 675.2000122070312
+    },
+    {
+        "time": 1408232307354,
+        "speed": 6.781465,
+        "acceleration": 0.9674293172690762,
+        "latitude": -115.172568,
+        "longitude": 36.067765,
+        "elevation": 674.7999877929688
+    },
+    {
+        "time": 1408232308355,
+        "speed": 7.938561,
+        "acceleration": 1.1559400599400602,
+        "latitude": -115.172573,
+        "longitude": 36.067696,
+        "elevation": 674.7000122070312
+    },
+    {
+        "time": 1408232309354,
+        "speed": 8.896974,
+        "acceleration": 0.9593723723723725,
+        "latitude": -115.172576,
+        "longitude": 36.067615,
+        "elevation": 674.5
+    },
+    {
+        "time": 1408232310354,
+        "speed": 9.887814,
+        "acceleration": 0.9908400000000004,
+        "latitude": -115.172575,
+        "longitude": 36.067526,
+        "elevation": 674.2999877929688
+    },
+    {
+        "time": 1408232311354,
+        "speed": 10.0628195,
+        "acceleration": 0.17500549999999926,
+        "latitude": -115.172575,
+        "longitude": 36.067435,
+        "elevation": 674.2000122070312
+    },
+    {
+        "time": 1408232312357,
+        "speed": 9.66391,
+        "acceleration": -0.39771635094715874,
+        "latitude": -115.172576,
+        "longitude": 36.067345,
+        "elevation": 674.0999755859375
+    },
+    {
+        "time": 1408232313354,
+        "speed": 9.559936,
+        "acceleration": -0.10428686058174436,
+        "latitude": -115.172579,
+        "longitude": 36.067258,
+        "elevation": 674.0999755859375
+    },
+    {
+        "time": 1408232314356,
+        "speed": 9.424564,
+        "acceleration": -0.1351017964071859,
+        "latitude": -115.172591,
+        "longitude": 36.067171,
+        "elevation": 674.0999755859375
+    },
+    {
+        "time": 1408232315354,
+        "speed": 8.953593,
+        "acceleration": -0.4719148296593191,
+        "latitude": -115.172601,
+        "longitude": 36.067088,
+        "elevation": 674.0999755859375
+    },
+    {
+        "time": 1408232316354,
+        "speed": 8.767778,
+        "acceleration": -0.18581499999999984,
+        "latitude": -115.172606,
+        "longitude": 36.066998,
+        "elevation": 674.2999877929688
+    },
+    {
+        "time": 1408232317378,
+        "speed": 8.633436,
+        "acceleration": -0.13119335937500018,
+        "latitude": -115.172608,
+        "longitude": 36.066915,
+        "elevation": 674.4000244140625
+    },
+    {
+        "time": 1408232318359,
+        "speed": 7.6811996,
+        "acceleration": -0.970679306829765,
+        "latitude": -115.172608,
+        "longitude": 36.06684,
+        "elevation": 674.4000244140625
+    },
+    {
+        "time": 1408232319356,
+        "speed": 6.9436026,
+        "acceleration": -0.7398164493480441,
+        "latitude": -115.17261,
+        "longitude": 36.066773,
+        "elevation": 674.2000122070312
+    },
+    {
+        "time": 1408232320356,
+        "speed": 5.8143024,
+        "acceleration": -1.1293002000000003,
+        "latitude": -115.172613,
+        "longitude": 36.066716,
+        "elevation": 674.2000122070312
+    },
+    {
+        "time": 1408232321356,
+        "speed": 5.0519986,
+        "acceleration": -0.7623037999999998,
+        "latitude": -115.172625,
+        "longitude": 36.066673,
+        "elevation": 674.2999877929688
+    },
+    {
+        "time": 1408232322354,
+        "speed": 5.075676,
+        "acceleration": 0.02372484969939831,
+        "latitude": -115.172651,
+        "longitude": 36.066633,
+        "elevation": 674.0999755859375
+    },
+    {
+        "time": 1408232323353,
+        "speed": 5.301124,
+        "acceleration": 0.22567367367367377,
+        "latitude": -115.172686,
+        "longitude": 36.066591,
+        "elevation": 674.2000122070312
+    },
+    {
+        "time": 1408232325354,
+        "speed": 5.0767055,
+        "acceleration": -0.11215317341329317,
+        "latitude": -115.172781,
+        "longitude": 36.06655,
+        "elevation": 674.5
+    },
+    {
+        "time": 1408232326356,
+        "speed": 5.65165,
+        "acceleration": 0.5737969061876247,
+        "latitude": -115.172843,
+        "longitude": 36.066535,
+        "elevation": 674.5
+    },
+    {
+        "time": 1408232327354,
+        "speed": 6.4319687,
+        "acceleration": 0.7818824649298592,
+        "latitude": -115.172918,
+        "longitude": 36.066533,
+        "elevation": 674.5
+    },
+    {
+        "time": 1408232328354,
+        "speed": 7.254495,
+        "acceleration": 0.8225263000000007,
+        "latitude": -115.17301,
+        "longitude": 36.066548,
+        "elevation": 674.5999755859375
+    },
+    {
+        "time": 1408232329354,
+        "speed": 7.536048,
+        "acceleration": 0.2815529999999997,
+        "latitude": -115.1731,
+        "longitude": 36.06655,
+        "elevation": 674.7000122070312
+    },
+    {
+        "time": 1408232330357,
+        "speed": 7.5504603,
+        "acceleration": 0.014369192422731849,
+        "latitude": -115.173195,
+        "longitude": 36.066551,
+        "elevation": 674.7999877929688
+    },
+    {
+        "time": 1408232331354,
+        "speed": 7.4614134,
+        "acceleration": -0.08931484453360129,
+        "latitude": -115.173283,
+        "longitude": 36.066538,
+        "elevation": 675
+    },
+    {
+        "time": 1408232332355,
+        "speed": 7.6039915,
+        "acceleration": 0.14243566433566493,
+        "latitude": -115.173365,
+        "longitude": 36.066514,
+        "elevation": 675.2000122070312
+    },
+    {
+        "time": 1408232333354,
+        "speed": 8.14445,
+        "acceleration": 0.5409994994995001,
+        "latitude": -115.17345,
+        "longitude": 36.066481,
+        "elevation": 675.4000244140625
+    },
+    {
+        "time": 1408232334356,
+        "speed": 8.641156,
+        "acceleration": 0.49571457085828313,
+        "latitude": -115.173536,
+        "longitude": 36.066443,
+        "elevation": 675.4000244140625
+    },
+    {
+        "time": 1408232335355,
+        "speed": 8.844472,
+        "acceleration": 0.20351951951951866,
+        "latitude": -115.17362,
+        "longitude": 36.066396,
+        "elevation": 675.4000244140625
+    },
+    {
+        "time": 1408232336367,
+        "speed": 8.578876,
+        "acceleration": -0.2624466403162059,
+        "latitude": -115.173701,
+        "longitude": 36.066355,
+        "elevation": 675.5
+    },
+    {
+        "time": 1408232337620,
+        "speed": 8.58042,
+        "acceleration": 0.0012322426177181788,
+        "latitude": -115.17379,
+        "longitude": 36.066318,
+        "elevation": 675.5
+    },
+    {
+        "time": 1408232338391,
+        "speed": 8.375045,
+        "acceleration": -0.26637483787289246,
+        "latitude": -115.173873,
+        "longitude": 36.066285,
+        "elevation": 675.5999755859375
+    },
+    {
+        "time": 1408232339424,
+        "speed": 8.10533,
+        "acceleration": -0.2610987415295254,
+        "latitude": -115.173943,
+        "longitude": 36.066248,
+        "elevation": 675.2999877929688
+    },
+    {
+        "time": 1408232340361,
+        "speed": 8.19026,
+        "acceleration": 0.09064034151547486,
+        "latitude": -115.174033,
+        "longitude": 36.066221,
+        "elevation": 675.4000244140625
+    },
+    {
+        "time": 1408232341460,
+        "speed": 7.9390755,
+        "acceleration": -0.22855732484076427,
+        "latitude": -115.174116,
+        "longitude": 36.066193,
+        "elevation": 675.4000244140625
+    },
+    {
+        "time": 1408232342370,
+        "speed": 8.401811,
+        "acceleration": 0.5085005494505495,
+        "latitude": -115.174205,
+        "longitude": 36.066161,
+        "elevation": 675.5
+    },
+    {
+        "time": 1408232343357,
+        "speed": 7.5679607,
+        "acceleration": -0.844833130699088,
+        "latitude": -115.174278,
+        "longitude": 36.066135,
+        "elevation": 675.5999755859375
+    },
+    {
+        "time": 1408232344382,
+        "speed": 5.507013,
+        "acceleration": -2.01068068292683,
+        "latitude": -115.174328,
+        "longitude": 36.066114,
+        "elevation": 675.7000122070312
+    },
+    {
+        "time": 1408232347357,
+        "speed": 2.599347,
+        "acceleration": -0.9773667226890757,
+        "latitude": -115.174418,
+        "longitude": 36.066088,
+        "elevation": 676
+    },
+    {
+        "time": 1408232348361,
+        "speed": 2.7753823,
+        "acceleration": 0.1753339641434264,
+        "latitude": -115.174443,
+        "longitude": 36.066078,
+        "elevation": 676.0999755859375
+    },
+    {
+        "time": 1408232350359,
+        "speed": 4.1002774,
+        "acceleration": 0.6631106606606609,
+        "latitude": -115.174523,
+        "longitude": 36.066058,
+        "elevation": 676.0999755859375
+    },
+    {
+        "time": 1408232351357,
+        "speed": 4.69787,
+        "acceleration": 0.5987901803607211,
+        "latitude": -115.174576,
+        "longitude": 36.066046,
+        "elevation": 676.0999755859375
+    },
+    {
+        "time": 1408232353407,
+        "speed": 4.5717626,
+        "acceleration": -0.06151580487804899,
+        "latitude": -115.17467,
+        "longitude": 36.066015,
+        "elevation": 676.2000122070312
+    },
+    {
+        "time": 1408232354360,
+        "speed": 3.9973328,
+        "acceleration": -0.6027594963273867,
+        "latitude": -115.174718,
+        "longitude": 36.065998,
+        "elevation": 676.2000122070312
+    },
+    {
+        "time": 1408232357354,
+        "speed": 2.451622,
+        "acceleration": -0.5162694722778892,
+        "latitude": -115.174765,
+        "longitude": 36.065933,
+        "elevation": 676.2000122070312
+    },
+    {
+        "time": 1408232358391,
+        "speed": 2.6451576,
+        "acceleration": 0.18663027965284487,
+        "latitude": -115.174778,
+        "longitude": 36.065911,
+        "elevation": 676.2999877929688
+    },
+    {
+        "time": 1408232360358,
+        "speed": 3.894903,
+        "acceleration": 0.6353560752414844,
+        "latitude": -115.174851,
+        "longitude": 36.06588,
+        "elevation": 676.2999877929688
+    },
+    {
+        "time": 1408232361394,
+        "speed": 4.9320683,
+        "acceleration": 1.0011248069498073,
+        "latitude": -115.174911,
+        "longitude": 36.06586,
+        "elevation": 676.2000122070312
+    },
+    {
+        "time": 1408232362362,
+        "speed": 5.7674627,
+        "acceleration": 0.8630107438016531,
+        "latitude": -115.174978,
+        "longitude": 36.06584,
+        "elevation": 676.2999877929688
+    },
+    {
+        "time": 1408232363361,
+        "speed": 6.4623375,
+        "acceleration": 0.6955703703703704,
+        "latitude": -115.175051,
+        "longitude": 36.065823,
+        "elevation": 676.2999877929688
+    },
+    {
+        "time": 1408232364356,
+        "speed": 7.045003,
+        "acceleration": 0.5855934673366835,
+        "latitude": -115.175134,
+        "longitude": 36.065803,
+        "elevation": 676.2000122070312
+    },
+    {
+        "time": 1408232365385,
+        "speed": 7.269422,
+        "acceleration": 0.21809426627793901,
+        "latitude": -115.175215,
+        "longitude": 36.065785,
+        "elevation": 676.2000122070312
+    },
+    {
+        "time": 1408232366360,
+        "speed": 7.017208,
+        "acceleration": -0.25868102564102513,
+        "latitude": -115.175283,
+        "longitude": 36.065761,
+        "elevation": 676.0999755859375
+    },
+    {
+        "time": 1408232367357,
+        "speed": 6.554473,
+        "acceleration": -0.46412738214643967,
+        "latitude": -115.17535,
+        "longitude": 36.065738,
+        "elevation": 675.9000244140625
+    },
+    {
+        "time": 1408232369356,
+        "speed": 3.8460045,
+        "acceleration": -1.3549117058529263,
+        "latitude": -115.17545,
+        "longitude": 36.065713,
+        "elevation": 675.7999877929688
+    },
+    {
+        "time": 1408232370358,
+        "speed": 2.2776458,
+        "acceleration": -1.5652282435129738,
+        "latitude": -115.175465,
+        "longitude": 36.065703,
+        "elevation": 675.5999755859375
+    },
+    {
+        "time": 1408232378372,
+        "speed": 2.536551,
+        "acceleration": 0.032306613426503566,
+        "latitude": -115.175558,
+        "longitude": 36.065685,
+        "elevation": 674.4000244140625
+    },
+    {
+        "time": 1408232379357,
+        "speed": 2.8181043,
+        "acceleration": 0.2858409137055839,
+        "latitude": -115.175573,
+        "longitude": 36.065661,
+        "elevation": 674.2000122070312
+    },
+    {
+        "time": 1408232383388,
+        "speed": 1.13033,
+        "acceleration": -0.4186986603820392,
+        "latitude": -115.175598,
+        "longitude": 36.065613,
+        "elevation": 673.7999877929688
+    },
+    {
+        "time": 1408232384390,
+        "speed": 0.05301639,
+        "acceleration": -1.0751632834331337,
+        "latitude": -115.175598,
+        "longitude": 36.06561,
+        "elevation": 673.4000244140625
+    },
+    {
+        "time": 1408232393375,
+        "speed": 0.14463694,
+        "acceleration": 0.010197056204785754,
+        "latitude": -115.175584,
+        "longitude": 36.065529,
+        "elevation": 671.7000122070312
+    },
+    {
+        "time": 1408232394394,
+        "speed": 1.5796825,
+        "acceleration": 1.4082880863591756,
+        "latitude": -115.175583,
+        "longitude": 36.065508,
+        "elevation": 671.5
+    },
+    {
+        "time": 1408232397390,
+        "speed": 0,
+        "acceleration": -0.5272638518024033,
+        "latitude": -115.17557,
+        "longitude": 36.065435,
+        "elevation": 670.9000244140625
+    },
+    {
+        "time": 1408232398394,
+        "speed": 2.3805902,
+        "acceleration": 2.3711057768924304,
+        "latitude": -115.175565,
+        "longitude": 36.065413,
+        "elevation": 670.7000122070312
+    },
+    {
+        "time": 1408232401376,
+        "speed": 3.1912777,
+        "acceleration": 0.27186032863849774,
+        "latitude": -115.175549,
+        "longitude": 36.065326,
+        "elevation": 670.0999755859375
+    },
+    {
+        "time": 1408232402391,
+        "speed": 2.9668589,
+        "acceleration": -0.22110226600985222,
+        "latitude": -115.175541,
+        "longitude": 36.065304,
+        "elevation": 669.7000122070312
+    },
+    {
+        "time": 1408232406392,
+        "speed": 1.958518,
+        "acceleration": -0.25202221944513875,
+        "latitude": -115.175521,
+        "longitude": 36.065218,
+        "elevation": 669
+    },
+    {
+        "time": 1408232407381,
+        "speed": 1.602845,
+        "acceleration": -0.35962891809908987,
+        "latitude": -115.175513,
+        "longitude": 36.065201,
+        "elevation": 669.0999755859375
+    },
+    {
+        "time": 1408232414360,
+        "speed": 1.2245241,
+        "acceleration": -0.054208468261928655,
+        "latitude": -115.175501,
+        "longitude": 36.065121,
+        "elevation": 669.4000244140625
+    },
+    {
+        "time": 1408232415394,
+        "speed": 1.6085069,
+        "acceleration": 0.37135667311411996,
+        "latitude": -115.175496,
+        "longitude": 36.065098,
+        "elevation": 669.5999755859375
+    },
+    {
+        "time": 1408232428356,
+        "speed": 0,
+        "acceleration": -0.12409403641413363,
+        "latitude": -115.175468,
+        "longitude": 36.065015,
+        "elevation": 671.5999755859375
+    },
+    {
+        "time": 1408232429353,
+        "speed": 0,
+        "acceleration": 0,
+        "latitude": -115.175471,
+        "longitude": 36.065005,
+        "elevation": 671.7000122070312
+    },
+    {
+        "time": 1408232445354,
+        "speed": 0.8626744,
+        "acceleration": 0.053913780388725706,
+        "latitude": -115.175473,
+        "longitude": 36.064916,
+        "elevation": 672
+    },
+    {
+        "time": 1408232446356,
+        "speed": 0,
+        "acceleration": -0.86095249500998,
+        "latitude": -115.17547,
+        "longitude": 36.064904,
+        "elevation": 672
+    },
+    {
+        "time": 1408232451352,
+        "speed": 0,
+        "acceleration": 0,
+        "latitude": -115.175471,
+        "longitude": 36.064825,
+        "elevation": 672
+    },
+    {
+        "time": 1408232452357,
+        "speed": 1.4685025,
+        "acceleration": 1.4611965174129353,
+        "latitude": -115.175483,
+        "longitude": 36.064806,
+        "elevation": 672.0999755859375
+    },
+    {
+        "time": 1408232458356,
+        "speed": 1.4298984,
+        "acceleration": -0.006435089181530278,
+        "latitude": -115.175531,
+        "longitude": 36.064726,
+        "elevation": 672.4000244140625
+    },
+    {
+        "time": 1408232459354,
+        "speed": 1.1823169,
+        "acceleration": -0.24807765531062112,
+        "latitude": -115.175535,
+        "longitude": 36.064718,
+        "elevation": 672.4000244140625
+    },
+    {
+        "time": 1408232568352,
+        "speed": 0,
+        "acceleration": -0.010847143066845262,
+        "latitude": -115.175568,
+        "longitude": 36.064633,
+        "elevation": 674.2999877929688
+    },
+    {
+        "time": 1408232569352,
+        "speed": 0,
+        "acceleration": 0,
+        "latitude": -115.175568,
+        "longitude": 36.064631,
+        "elevation": 674.2999877929688
+    },
+    {
+        "time": 1408232830667,
+        "speed": 0,
+        "acceleration": 0,
+        "latitude": -115.175568,
+        "longitude": 36.064631,
+        "elevation": 674.2999877929688
+    }
+]
