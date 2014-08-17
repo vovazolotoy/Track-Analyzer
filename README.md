@@ -33,6 +33,11 @@ JSON data returned from **kml2json** can be imported with **mongoimport**
 ```
 $ mongoimport --db geo --collection tracks < tracks/2.json --jsonArray
 ```
+```
+connected to: 127.0.0.1
+Sun Aug 17 16:24:46.749 check 9 442
+Sun Aug 17 16:24:46.778 imported 442 objects
+```
 
 
 <a name="analyzing"/>
