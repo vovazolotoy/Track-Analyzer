@@ -57,4 +57,4 @@ Sun Aug 17 16:24:46.778 imported 442 objects
 Have you ever wondered how your driver is representing your company with his driving style?
 GPS Tracking technology can give you the ability to monitor driver behaviour better than ever before.
 
-This toolkit As example of MapReduce data analyzing for finding in GPS tracks points with harsh braking and rapid acceleration
+This toolkit is example of MapReduce data analyzing for finding in GPS tracks points with harsh braking and rapid acceleration
