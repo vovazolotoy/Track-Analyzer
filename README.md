@@ -1,5 +1,7 @@
 # Track-Analyzer
-Small toolkit  for analyze "My Tracks" GPS data with Mongo MapReduce.
+Have you ever wondered how your driver is representing your company with his driving style?
+
+This small toolkit is example of Mongo MapReduce for analyze "My Tracks" GPS data for finding harsh braking and rapid acceleration.
 
 
 ## Table of Content
