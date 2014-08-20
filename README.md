@@ -62,7 +62,7 @@ Rapid acceleration: 5mph(2,22mps)/sec for >= 3 seconds.
 
 ```
 function map() {
-	if (Math.abs(this.acceleration) > 2 ) {
+	if (Math.abs(this.acceleration) > 2.22 ) {
 		var data = {};
 		data[this.time] = this;
 		emit('acceleration', {count:1, data:data});
@@ -81,4 +81,34 @@ function reduce(key, values) {
 	}
 	return {count:count, data:data};
 }
+```
+
+```
+function finalize(key, value) {
+	var times = [];
+	for (var t in value.data) {
+		times.push(t);
+	}
+	return times;
+}
+```
+
+```
+db.tracks.mapReduce(map, reduce, {out:"points",finalize:finalize});
+{
+	"result" : "points",
+	"timeMillis" : 12,
+	"counts" : {
+		"input" : 442,
+		"emit" : 14,
+		"reduce" : 2,
+		"output" : 1
+	},
+	"ok" : 1,
+}
+```
+
+```
+db.points.find()
+{ "_id" : "acceleration", "value" : [ 	"NumberLong(\"1408234489682\")", 	"NumberLong(\"1408234602655\")", 	"NumberLong(\"1408234604657\")", 	"NumberLong(\"1408234713690\")", 	"NumberLong(\"1408234886607\")", 	"NumberLong(\"1408234887604\")", 	"NumberLong(\"1408234888605\")", 	"NumberLong(\"1408234890603\")", 	"NumberLong(\"1408234899636\")", 	"NumberLong(\"1408234992604\")", 	"NumberLong(\"1408235060606\")", 	"NumberLong(\"1408235061600\")", 	"NumberLong(\"1408235093603\")", 	"NumberLong(\"1408235128609\")" ] }
 ```
