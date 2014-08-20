@@ -59,3 +59,26 @@ Sun Aug 17 16:24:46.778 imported 442 objects
 Let's define harsh braking as: -5mph(-2,22mps)/sec for >= 3 seconds.
 
 Rapid acceleration: 5mph(2,22mps)/sec for >= 3 seconds.
+
+```
+function map() {
+	if (Math.abs(this.acceleration) > 2 ) {
+		var data = {};
+		data[this.time] = this;
+		emit('acceleration', {count:1, data:data});
+	}
+}
+```
+```
+function reduce(key, values) {
+	var data = {},
+		count = 0;
+	for (var i in values) {
+		count += values[i].count;
+		for (var t in values[i].data) {
+			data[t] = values[i].data[t];
+		}
+	}
+	return {count:count, data:data};
+}
+```
