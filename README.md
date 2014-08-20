@@ -87,7 +87,7 @@ function reduce(key, values) {
 function finalize(key, value) {
 	var times = [];
 	for (var t in value.data) {
-		times.push(t);
+		times.push(Math.round(value.data[t].time/1000));
 	}
 	return times;
 }
@@ -97,7 +97,7 @@ function finalize(key, value) {
 db.tracks.mapReduce(map, reduce, {out:"points",finalize:finalize});
 {
 	"result" : "points",
-	"timeMillis" : 12,
+	"timeMillis" : 11,
 	"counts" : {
 		"input" : 442,
 		"emit" : 14,
@@ -110,5 +110,20 @@ db.tracks.mapReduce(map, reduce, {out:"points",finalize:finalize});
 
 ```
 db.points.find()
-{ "_id" : "acceleration", "value" : [ 	"NumberLong(\"1408234489682\")", 	"NumberLong(\"1408234602655\")", 	"NumberLong(\"1408234604657\")", 	"NumberLong(\"1408234713690\")", 	"NumberLong(\"1408234886607\")", 	"NumberLong(\"1408234887604\")", 	"NumberLong(\"1408234888605\")", 	"NumberLong(\"1408234890603\")", 	"NumberLong(\"1408234899636\")", 	"NumberLong(\"1408234992604\")", 	"NumberLong(\"1408235060606\")", 	"NumberLong(\"1408235061600\")", 	"NumberLong(\"1408235093603\")", 	"NumberLong(\"1408235128609\")" ] }
+{ "_id" : "acceleration", "value" : [
+	1408234490,
+	1408234603,
+	1408234605,
+	1408234714,
+	1408234887,
+	1408234888,
+	1408234889,
+	1408234891,
+	1408234900,
+	1408234993,
+	1408235061,
+	1408235062,
+	1408235094,
+	1408235129
+] }
 ```
