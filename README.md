@@ -23,12 +23,12 @@ This small toolkit is example of Mongo MapReduce for analyze "My Tracks" GPS dat
  -i, --input [file]   input kml file
  -o, --output [file]  output json file
 ```
-```
+```shell
 $ kml2json -i tracks/2.kml -o tracks/2.json
 Done – 442 records exported.
 ```
 Example of record (time is in milliseconds)
-```
+```shell
     {
         "time": 1408215039029,
         "speed": 4.952657,
@@ -43,7 +43,7 @@ Example of record (time is in milliseconds)
 <a name="import"/>
 ## Import data into MongoDB
 JSON data returned from **kml2json** can be imported with **mongoimport**
-```
+```shell
 $ mongoimport --db geo --collection tracks < tracks/2.json --jsonArray
 ```
 ```
@@ -60,7 +60,7 @@ Let's define harsh braking as: -5mph(-2,22mps)/sec for >= 3 seconds.
 
 Rapid acceleration: 5mph(2,22mps)/sec for >= 3 seconds.
 
-```
+```js
 function map() {
 	if (Math.abs(this.acceleration) > 2.22 ) {
 		var data = {};
@@ -69,7 +69,7 @@ function map() {
 	}
 }
 ```
-```
+```js
 function reduce(key, values) {
 	var data = {},
 		count = 0;
@@ -83,7 +83,7 @@ function reduce(key, values) {
 }
 ```
 
-```
+```js
 function finalize(key, value) {
 	var times = [];
 	for (var t in value.data) {
@@ -93,7 +93,7 @@ function finalize(key, value) {
 }
 ```
 
-```
+```js
 db.tracks.mapReduce(map, reduce, {out:"points",finalize:finalize});
 {
 	"result" : "points",
@@ -108,7 +108,7 @@ db.tracks.mapReduce(map, reduce, {out:"points",finalize:finalize});
 }
 ```
 
-```
+```js
 db.points.find()
 { "_id" : "acceleration", "value" : [
 	1408234490,
